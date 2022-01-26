@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3db86050-8d25-458c-99f4-28c3a7baecbf": {
+      "ProjectGuid": "3db86050-8d25-458c-99f4-28c3a7baecbf",
+      "DisplayName": "AngularProject-HelpDesk",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
